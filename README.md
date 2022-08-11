@@ -2,6 +2,7 @@
 Este es un proyecto semanal siguiendo pasos día a día sugeridos por Data Talks Club
 
 Día 1: 
+
   ✔ Definir idea del proyecto 
     
     Identificar a los usuarios más valiosos del dataset de una compañía de servicios de telecomunicaciones
