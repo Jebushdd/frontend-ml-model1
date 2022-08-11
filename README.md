@@ -1,5 +1,5 @@
 # frontend-ml-model1
-Este es un proyecto semanal siguiendo pasos día a día sugeridos por Data Talks Club
+Se debe crear una aplicación frontend de un modelo de Machine Learning. \nEste es un proyecto semanal siguiendo pasos día a día sugeridos por Data Talks Club
 
 Día 1: 
 
