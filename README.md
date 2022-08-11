@@ -2,9 +2,15 @@
 Este es un proyecto semanal siguiendo pasos día a día sugeridos por Data Talks Club
 
 Día 1: 
-  - Definir idea del proyecto 
-  - Seleccionar el dataset
-  - Crear un repositorio en GitHub
+  ✔ Definir idea del proyecto 
+    
+    Identificar a los usuarios más valiosos del dataset de una compañía de servicios de telecomunicaciones
+    
+  ✔ Seleccionar el dataset
+
+    Customer churn de Maven Analytics
+
+  ✔ Crear un repositorio en GitHub
 
 Día 2:
   - Realizar limpieza de datos en Jupyter Notebook
