@@ -16,8 +16,10 @@ Tecnologías a usar: ScikitLearn, Flask, Docker, Streamlit
   ✔ Crear un repositorio en GitHub
 
 ## Día 2:
-  - Realizar limpieza de datos en Jupyter Notebook
-  - Probar varios modelos para tus datos
+  ✔ Realizar limpieza de datos en Jupyter Notebook
+  ✔ Probar varios modelos para tus datos
+
+    Se usó un modelo de regresión logística
 
 ## Día 3:
   - Convertir el notebook a flask para usar solo el backend
