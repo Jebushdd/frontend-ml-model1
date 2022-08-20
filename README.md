@@ -18,6 +18,8 @@ Tecnologías a usar: ScikitLearn, Flask, Docker, Streamlit
 ## Día 2:
   ✔ Realizar limpieza de datos en Jupyter Notebook
   
+  Jupyter Notebook subido
+  
   ✔ Probar varios modelos para tus datos
 
     Se usó un modelo de regresión logística
